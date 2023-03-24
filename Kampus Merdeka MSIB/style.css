@@ -1,0 +1,13 @@
+div{
+    /*ini css*/
+    border : 5px;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: yellow;
+    color: blue;
+    float: left;
+
+}
